@@ -1,0 +1,22 @@
+# Core ML Frameworks
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Data Handling
+scikit-learn>=1.0
+numpy>=1.21
+pandas>=1.3
+
+# Visualization
+matplotlib>=3.4
+seaborn>=0.11
+
+# Training Utilities
+tqdm>=4.65
+
+# Explainability
+pytorch-grad-cam>=1.4.8
+
+# Jupyter
+jupyterlab>=3.0
+notebook>=6.5
